@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb27bf726303495fae15692fcf9f3e3, type: 3}
+  m_Name: Troia
+  m_EditorClassIdentifier: 
+  enemyType: 4
+  japaneseName: "\u30C8\u30ED\u30A4\u306E\u6728\u99AC"
+  englishName: Trojan horse
+  explain: "\u30A2\u30A4\u30C6\u30E0\u306B\u64EC\u614B\u3057\u3066\u3044\u308B\u6575.
+    \n\u8FD1\u3065\u304F\u307E\u3067\u672C\u7269\u306E\u30A2\u30A4\u30C6\u30E0\u3068\n\u898B\u5206\u3051\u304C\u3064\u304B\u305A,
+    \n\u6CB9\u65AD\u3057\u3066\u3044\u308B\u3068\u4E0D\u610F\u6253\u3061\u3092\u53D7\u3051\u3066\u3057\u307E\u3046.\n\nAn
+    enemy disguised as an item. \nIt's indistinguishable from a genuine item until
+    you get close. \nIf you're not careful, you'll get caught off guard."
+  objectForInformation: {fileID: 3791570251392045002, guid: da0ce6a28393f4e3b97969cbd1318b0d, type: 3}
+  nameTex: {fileID: 2800000, guid: ec507b02fc12c405486f2e58e31eec7b, type: 3}

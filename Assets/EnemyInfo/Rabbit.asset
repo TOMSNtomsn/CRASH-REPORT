@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb27bf726303495fae15692fcf9f3e3, type: 3}
+  m_Name: Rabbit
+  m_EditorClassIdentifier: 
+  enemyType: 5
+  japaneseName: "\u30E9\u30D3\u30C3\u30C8"
+  englishName: Rabbit
+  explain: "\u4E8C\u6B21\u5143\u7684\u306A\u59FF\u3092\u3057\u305F\u6575. \n\u4E00\u5B9A\u6642\u9593\u3054\u3068\u306B\u5206\u88C2\u3057,
+    \n\u653E\u3063\u3066\u304A\u304F\u3068\u624B\u306B\u8CA0\u3048\u306A\u304F\u306A\u308B.
+    \n\u753B\u9762\u5916\u306B\u3044\u3066\u3082\u5206\u88C2\u3059\u308B\u304B\u3089\u771F\u3063\u5148\u306B\u5012\u305B\uFF01\n\nA
+    flat, two-dimensional enemy.\nIt splits at regular intervals and will become
+    unmanageable if left. \nIt even splits off-screen, so take it out early!"
+  objectForInformation: {fileID: 3820281578711151879, guid: a2a838629d14740b087092d8c8f5c314, type: 3}
+  nameTex: {fileID: 2800000, guid: 5f7b1d47e1c844c4dbc8d1678523c940, type: 3}

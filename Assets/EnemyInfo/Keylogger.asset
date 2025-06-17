@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb27bf726303495fae15692fcf9f3e3, type: 3}
+  m_Name: Keylogger
+  m_EditorClassIdentifier: 
+  enemyType: 8
+  japaneseName: "\u30AD\u30FC\u30ED\u30AC\u30FC"
+  englishName: Keylogger
+  explain: "\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u5165\u529B\u3092\u76E3\u8996\u3057\u3066\u3044\u308B\u6575.
+    \n\u62BC\u3057\u3066\u3044\u308B\u30AD\u30FC\u3092\u81EA\u8EAB\u306E\u753B\u9762\u306B\u8868\u793A\u3057,
+    \u305D\u306E\u30AD\u30FC\u3092\u96E2\u3057\u305F\u6642\u306B\u8868\u793A\u3057\u3066\u3044\u305F\u30AD\u30FC\u3092\u5F3E\u3068\u3057\u3066\u767A\u5C04\u3057\u3066\u304F\u308B.\n\nAn
+    enemy that monitors your input. \nIt displays the key you're pushing on its screen.
+    \nWhen you release the key, it fires the key as a projectile."
+  objectForInformation: {fileID: 8339697354886323925, guid: 8c1f7b45c5c7242e3abccc2b2f895fc8, type: 3}
+  nameTex: {fileID: 2800000, guid: b78089bfc1d2e45aa89cb342ec101aa2, type: 3}
