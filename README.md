@@ -3,6 +3,8 @@ CRASH REPORT<br>
 
 [PlayLink](https://unityroom.com/games/crash_report)
 
+[GC甲子園 みんなのゲームパレード](https://gameparade.creators-guild.com/works/3163)
+
 ## 概要
 - 敵の攻撃を避けながらレーザーで敵を倒す **3Dアクションゲーム**
 - 敵は特殊な挙動や攻撃をする独自性をもつ
