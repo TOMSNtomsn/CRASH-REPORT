@@ -10,7 +10,7 @@
 - 制作人数：5人
 - 開発期間：3ヶ月
 - プレイ人数：1人
-- プレイ動画
+- [プレイ動画](https://youtu.be/TGv2T4rzuc0?si=GgzW9CtHXzBSjLfP)
 
 
 ![Image](https://github.com/user-attachments/assets/6777b44c-cb42-43f6-b556-7d7d729f28db)
