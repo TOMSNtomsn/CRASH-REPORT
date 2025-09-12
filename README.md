@@ -1,5 +1,4 @@
-# プロジェクト名
-CRASH REPORT<br>
+# CRASH REPORT
 
 [PlayLink](https://unityroom.com/games/crash_report)
 
